@@ -22,6 +22,10 @@
         </activity>
         <activity android:name=".HomeActivity"
             android:exported="false"/>
+        <activity android:name=".Activity3"
+            android:exported="false"/>
+        <activity android:name=".ProductActivity"
+            android:exported="false"/>
     </application>
 
 </manifest>
